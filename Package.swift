@@ -72,6 +72,7 @@ let package = Package(
                 .copy("Assets/styles/foundation.min.css"),
                 .copy("Assets/styles/github-gist.min.css"),
                 .copy("Assets/styles/github.min.css"),
+                .copy("Assets/styles/github-dark-dimmed.min.css"),
                 .copy("Assets/styles/gml.min.css"),
                 .copy("Assets/styles/googlecode.min.css"),
                 .copy("Assets/styles/grayscale.min.css"),
